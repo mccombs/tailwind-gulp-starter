@@ -1,0 +1,40 @@
+{
+  "name": "tailwind-gulp-starter",
+  "version": "1.0.0",
+  "description": "Quick start using tailwindcss.com, gulp and html",
+  "main": "config.js",
+  "dependencies": {
+    "autoprefixer": "^10.2.4",
+    "browser-sync": "^2.26.14",
+    "del": "^6.0.0",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-postcss": "^9.0.0",
+    "gulp-purgecss": "^4.0.0",
+    "gulp-sass": "^4.1.0",
+    "gulp-uglify": "^3.0.2",
+    "log-symbols": "^4.0.0",
+    "tailwindcss": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mccombs/tailwind-gulp-starter.git"
+  },
+  "keywords": [
+    "tailwind",
+    "gulp",
+    "html"
+  ],
+  "author": "AJM - Adam McCombs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mccombs/tailwind-gulp-starter/issues"
+  },
+  "homepage": "https://github.com/mccombs/tailwind-gulp-starter#readme"
+}
